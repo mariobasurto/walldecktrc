@@ -24,15 +24,15 @@
         margin: 0px 29px;
     }
     #myCarousel a.carousel-control-next {
-        right: 44.5%;
+        right: 0%;
     }
     #myCarousel .carousel-control-next:hover,
     #myCarousel .carousel-control-next:focus {
-        right: 42%;
+        right: 0%;
     }
     #myCarousel .carousel-control-prev:hover,
     #myCarousel .carousel-control-prev:focus {
-        left: 45.5%;
+        left: 0%;
     }
     .text-bg h1 {
         font-size: 76px;
@@ -83,15 +83,15 @@
         margin: 0px 12px;
     }
     #myCarousel a.carousel-control-next {
-        right: 42.5%;
+        right: 0%;
     }
     #myCarousel .carousel-control-next:hover,
     #myCarousel .carousel-control-next:focus {
-        right: 40%;
+        right: 0%;
     }
     #myCarousel .carousel-control-prev:hover,
     #myCarousel .carousel-control-prev:focus {
-        left: 45.5%;
+        left: 0%;
     }
     .text-bg h1 {
         font-size: 60px;
@@ -165,18 +165,18 @@
         font-size: 70px;
     }
     #myCarousel a.carousel-control-next {
-        right: 42.5%;
+        right: 0%;
     }
     #myCarousel .carousel-control-next:hover,
     #myCarousel .carousel-control-next:focus {
-        right: 39%;
+        right: 0%;
     }
     #myCarousel a.carousel-control-prev {
-        left: 45%;
+        left: 0%;
     }
     #myCarousel .carousel-control-prev:hover,
     #myCarousel .carousel-control-prev:focus {
-        left: 40.5%;
+        left: 0%;
     }
     .about .titlepage {
         margin-right: 0;
@@ -275,18 +275,18 @@
         line-height: 55px;
     }
     #myCarousel a.carousel-control-next {
-        right: 32.5%;
+        right: 0%;
     }
     #myCarousel .carousel-control-next:hover,
     #myCarousel .carousel-control-next:focus {
-        right: 25%;
+        right: 0%;
     }
     #myCarousel a.carousel-control-prev {
-        left: 45%;
+        left: 0%;
     }
     #myCarousel .carousel-control-prev:hover,
     #myCarousel .carousel-control-prev:focus {
-        left: 37.5%;
+        left: 0%;
     }
     .about .titlepage {
         margin-right: 0;

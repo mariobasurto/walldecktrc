@@ -433,6 +433,14 @@ button {
      padding: 0;
 }
 
+.titlepage h3 {
+     font-size: 30px;
+     color: #1a1919;
+     line-height: 35px;
+     font-weight: 500;
+     padding: 0;
+}
+
 .green {
      color: #84D9BA !important;
 }
@@ -1211,4 +1219,15 @@ ul.link_menu li a:hover {
 
 .in_page .header {
      border-bottom: #84D9BA solid 2px;
+}
+
+
+/* catalog products  */
+
+.page-link {
+     color: #84D9BA;
+}
+
+.page-link:hover {
+     color: #84D9BA;
 }
